@@ -1,7 +1,7 @@
 # Hi, I'm TinchoAcosta 👋
 
 I'm a student passionate about backend development.  
-Currently exploring the world of **Node.js** and **ASP.NET Core**.
+Currently exploring the world of **ASP.NET Core**.
 
 ## 🚀 Projects
 - [MiNegocio](https://github.com/TinchoAcosta/MiNegocio)
